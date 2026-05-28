@@ -18,6 +18,7 @@ The observed behavior suggests that continuous low-friction social interaction m
 From a systems perspective, repeated communication and interpersonal exposure may increase trust formation, facilitate information exchange, and improve coordination efficiency during collaborative tasks.
 
 This dynamic may positively influence:
+
 • project coordination
 • knowledge sharing
 • collective problem-solving
@@ -25,9 +26,10 @@ This dynamic may positively influence:
 • group adaptability
 • communication stability
 
-The hypothesis is that constant interaction between subgroup members contributed to a more balanced and less fragmented social environment.
+#The hypothesis is that constant interaction between subgroup members contributed to a more balanced and less fragmented social environment.
 
 Related Concepts
+
 • Group Dynamics
 • Social Cohesion
 • Collective Behavior
@@ -35,7 +37,7 @@ Related Concepts
 • Organizational Communication
 • Human Interaction Networks
 
-References
+#References
 • Kurt Lewin — Group Dynamics Theory
 • Bruce Tuckman — Stages of Group Development (Forming, Storming, Norming, Performing)
 • Matthew Lieberman — Social neuroscience and human social interaction
