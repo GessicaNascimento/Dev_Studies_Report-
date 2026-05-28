@@ -26,23 +26,24 @@ This dynamic may positively influence:
 • group adaptability
 • communication stability
 
-#The hypothesis is that constant interaction between subgroup members contributed to a more balanced and less fragmented social environment.
+The hypothesis is that constant interaction between subgroup members contributed to a more balanced and less fragmented social environment.
 
 Related Concepts
 
-• Group Dynamics
-• Social Cohesion
-• Collective Behavior
-• Collaborative Systems
-• Organizational Communication
-• Human Interaction Networks
+* Group Dynamics
+* Social Cohesion
+* Collective Behavior
+* Collaborative Systems
+* Organizational Communication
+* Human Interaction Networks
 
-#References
-• Kurt Lewin — Group Dynamics Theory
-• Bruce Tuckman — Stages of Group Development (Forming, Storming, Norming, Performing)
-• Matthew Lieberman — Social neuroscience and human social interaction
-• Miguel Nicolelis — Distributed systems and collective neural behavior
-• Albert Bandura — Social Learning Theory
+References
+
+* Kurt Lewin — Group Dynamics Theory
+* Bruce Tuckman — Stages of Group Development (Forming, Storming, Norming, Performing)
+* Matthew Lieberman — Social neuroscience and human social interaction
+* Miguel Nicolelis — Distributed systems and collective neural behavior
+* Albert Bandura — Social Learning Theory
 
 Author: Géssica Nascimento
 Systems Analysis & Development Student
