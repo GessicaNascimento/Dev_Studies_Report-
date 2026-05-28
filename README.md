@@ -43,9 +43,9 @@ References
 * Bruce Tuckman — Stages of Group Development (Forming, Storming, Norming, Performing)
 * Matthew Lieberman — Social neuroscience and human social interaction
 * Miguel Nicolelis — Distributed systems and collective neural behavior
-* Albert Bandura — Social Learning Theory
 
-* Author: Géssica Nascimento
-* Systems Analysis & Development Student
-*Date: 28/05/2026
+Author: Géssica Nascimento
+Systems Analysis & Development Student
+Date: 28/05/2026
+* Albert Bandura — Social Learning Theory
 
