@@ -19,12 +19,12 @@ From a systems perspective, repeated communication and interpersonal exposure ma
 
 This dynamic may positively influence:
 
-• project coordination
-• knowledge sharing
-• collective problem-solving
-• presentation organization
-• group adaptability
-• communication stability
+* project coordination
+* knowledge sharing
+* collective problem-solving
+*  presentation organization
+*   roup adaptability
+*   communication stability
 
 The hypothesis is that constant interaction between subgroup members contributed to a more balanced and less fragmented social environment.
 
@@ -45,7 +45,7 @@ References
 * Miguel Nicolelis — Distributed systems and collective neural behavior
 * Albert Bandura — Social Learning Theory
 
-Author: Géssica Nascimento
-Systems Analysis & Development Student
-Date: 28/05/2026
+* Author: Géssica Nascimento
+* Systems Analysis & Development Student
+*Date: 28/05/2026
 
