@@ -1,8 +1,9 @@
 # Dev_Studies_Report-
 Dev Studies Report
+
 Report: Group Organization and Communication Dynamics
-Goal
-Observe and document communication patterns, subgroup interaction, and organizational behavior during collaborative academic activities.
+
+Goal: Observe and document communication patterns, subgroup interaction, and organizational behavior during collaborative academic activities.
 
 Observation
 During academic activities and collaborative projects, communication between students occurred naturally with very low levels of conflict. Although smaller subgroups existed, members frequently interacted across different groups without significant social barriers.
