@@ -1,4 +1,4 @@
-# Dev_Studies_Report-
+# Dev_Studies_Report - Group Organization and Communication Dynamics
 # Dev Studies Report — Group Organization and Communication Dynamics
 
 ## Goal
